@@ -8,3 +8,7 @@ i += 1
 end
 newArray
 end
+
+def reduce
+
+end 
